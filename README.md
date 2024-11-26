@@ -1,4 +1,4 @@
-# BinarySearchSim
+# binary-search-sim
 A simple binary search sim, made for the AP CSP create task. 
 
 ## Features: 
